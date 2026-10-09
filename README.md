@@ -95,7 +95,7 @@ This profile is my engineering workbench — projects I’ve built, experiments 
 
 ## `selected-projects/`
 
-> Check each repository URL before publishing. If a linked repository does not exist or is private, remove the link until it is ready. The DHT22 and FreeRTOS cards are learning projects without repository links for now.
+
 
 <table>
 <tr>
