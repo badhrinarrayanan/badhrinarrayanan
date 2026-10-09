@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-labelledby="t d">
+<title id="t">Smart Shoe — Wearable Safety System</title>
+<desc id="d">Original black, crimson, and purple project banner showing a stylized shoe outline and sensor indicators.</desc>
+<defs>
+ <linearGradient id="g"><stop stop-color="#FF3158"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+ <pattern id="p" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#FFFFFF" stroke-opacity=".04"/></pattern>
+</defs>
+<rect width="520" height="150" rx="12" fill="#0D0D12" stroke="#332537"/><rect width="520" height="150" rx="12" fill="url(#p)"/>
+<path d="M0 28H38V46H62M520 114H472V94H448" fill="none" stroke="url(#g)" stroke-width="2"/>
+<g transform="translate(360,28)" fill="none" stroke="url(#g)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M12 15L45 28L62 52L92 65Q112 73 105 85Q102 92 85 92H20Q5 92 5 80Q6 73 18 68L26 53Z"/>
+ <path d="M26 53L48 63L68 65M17 72L38 77L58 77"/>
+ <circle cx="48" cy="63" r="5" fill="#FF3158"/><circle cx="82" cy="78" r="5" fill="#8B5CF6"/>
+</g>
+<rect x="28" y="31" width="5" height="57" rx="2" fill="url(#g)"/>
+<text x="49" y="58" fill="#F9FAFB" font-family="monospace" font-size="21" font-weight="700">SMART SHOE</text>
+<text x="49" y="83" fill="#C4B5FD" font-family="monospace" font-size="12">WEARABLE EMBEDDED SYSTEM</text>
+<text x="49" y="119" fill="#9CA3AF" font-family="monospace" font-size="10">[ SENSING // FIRMWARE // SAFETY MONITORING ]</text>
+</svg>

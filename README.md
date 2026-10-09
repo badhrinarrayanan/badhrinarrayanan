@@ -28,23 +28,15 @@
 
 ---
 
-## `whoami`
+## Hey, buddies! 👋
 
-```text
-$ whoami
-Badhri Narayanan — ECE student and embedded systems builder
+I'm **Badhri**, an Electronics and Communication Engineering student who enjoys building things that connect firmware with real hardware.
 
-$ focus --primary
-Microcontrollers | Firmware | RTOS | Hardware-software integration
+I spend my time experimenting with microcontrollers, learning how drivers and RTOS-based systems work, debugging communication and timing issues, and exploring what happens when embedded devices meet Edge AI and security. I’m also curious about quantum-inspired computing, which I explore through classical hardware demonstrations such as TRI-32.
 
-$ explore --also
-Edge AI / TinyML | Embedded Security | Quantum-inspired systems
+This profile is my engineering workbench — projects I’ve built, experiments I’m working through, and lessons I pick up along the way. Some projects are complete; others are still in progress, and I’ll label them honestly.
 
-$ engineering-loop
-BUILD  ->  DEBUG  ->  MEASURE  ->  DOCUMENT
-```
-
-I enjoy turning ideas into working embedded prototypes: writing firmware, bringing up peripherals, debugging communication, and measuring how systems behave on real hardware. I also explore on-device intelligence, resource-aware security, and quantum-inspired concepts through practical experiments.
+**My build loop:** `Build → Debug → Measure → Document`
 
 <img src="assets/domain-map.svg" alt="Embedded systems, Edge AI, embedded security, and quantum-inspired systems" width="100%"/>
 
@@ -103,34 +95,32 @@ I enjoy turning ideas into working embedded prototypes: writing firmware, bringi
 
 ## `selected-projects/`
 
-> Project status is intentionally explicit. Replace `REPO LINK TO ADD` links with the real repositories when you publish them.
+> Check each repository URL before publishing. If a linked repository does not exist or is private, remove the link until it is ready. The DHT22 and FreeRTOS cards are learning projects without repository links for now.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/badhrinarrayanan/TRI-32-Embedded-Quantum-Emulator">TRI-32 · Embedded QKD Emulator</a>
+### [TRI-32 · Embedded QKD Emulator](https://github.com/badhrinarrayanan/TRI-32-Embedded-Quantum-Emulator)
 
-<img src="assets/project-tri32.svg" alt="TRI-32 project visual" width="100%"/>
+<a href="https://github.com/badhrinarrayanan/TRI-32-Embedded-Quantum-Emulator"><img src="assets/project-tri32.svg" alt="TRI-32 project visual" width="100%"/></a>
 
-Three ESP32-based roles demonstrate BB84-inspired basis matching, shared-key demonstration, simulated interception, and QBER monitoring. It is a **classical hardware emulation**, not real quantum communication.
+Three ESP32-based roles demonstrate BB84-inspired basis matching, a shared demonstration key, simulated interception, and QBER monitoring. This is a **classical hardware emulation**, not real quantum communication.
 
 `ESP32` `ESP-NOW` `OLED` `QBER`
 
-[Open repository →](https://github.com/badhrinarrayanan/TRI-32-Embedded-Quantum-Emulator)
+[**View source code →**](https://github.com/badhrinarrayanan/TRI-32-Embedded-Quantum-Emulator)
 
 </td>
 <td width="50%" valign="top">
 
 ### DHT22 · From-Scratch Driver
 
-<img src="assets/project-firmware.svg" alt="Firmware project visual" width="100%"/>
+<img src="assets/project-firmware.svg" alt="DHT22 firmware project visual" width="100%"/>
 
-Learning project implementing the DHT22 timing and protocol flow directly, including start signalling, response timing, bit decoding, and debugging with serial logs.
+**Status: In progress.** I'm learning to implement the DHT22 timing and protocol flow without relying on a sensor library, including start signalling, response timing, bit decoding, and serial debugging.
 
 `ESP32` `PlatformIO` `GPIO timing` `C++`
-
-**Repository:** add link when published.
 
 </td>
 </tr>
@@ -139,26 +129,26 @@ Learning project implementing the DHT22 timing and protocol flow directly, inclu
 
 ### TinyML · Adaptive IoT Security
 
-<img src="assets/project-security.svg" alt="Embedded security project visual" width="100%"/>
+<a href="https://github.com/badhrinarrayanan/TinyML-Based-Adaptive-Security-Framework-for-Resource-Constrained-IoT-Networks"><img src="assets/project-security.svg" alt="Embedded security project visual" width="100%"/></a>
 
-Experimental pipeline exploring network-feature extraction, threat classification, and adaptive security policies for constrained IoT devices. Includes performance trade-offs between conventional and post-quantum cryptographic operations.
+An experimental pipeline exploring network-feature extraction, threat classification, and adaptive security policies for constrained IoT devices. The work includes performance comparisons for conventional and post-quantum cryptographic operations.
 
 `ESP32` `Python` `scikit-learn` `IoT security`
 
-**Repository:** add link when published. Keep this card only while the project reflects your current work.
+[**View repository →**](https://github.com/badhrinarrayanan/TinyML-Based-Adaptive-Security-Framework-for-Resource-Constrained-IoT-Networks)
 
 </td>
 <td width="50%" valign="top">
 
 ### Edge AI · Honeybee Monitoring
 
-<img src="assets/project-edgeai.svg" alt="Edge AI project visual" width="100%"/>
+<a href="https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring"><img src="assets/project-edgeai.svg" alt="Edge AI project visual" width="100%"/></a>
 
-Edge-AI monitoring concept using computer-vision / ML techniques to support observation of honeybee-hive activity.
+An Edge-AI monitoring project exploring computer-vision and machine-learning techniques for observing honeybee-hive activity. Add implementation details and results that match the current repository.
 
 `Python` `OpenCV` `TensorFlow/Keras`
 
-**Repository:** add link when published. Document the model, dataset, and actual deployment status.
+[**View repository →**](https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring)
 
 </td>
 </tr>
@@ -169,24 +159,22 @@ Edge-AI monitoring concept using computer-vision / ML techniques to support obse
 
 <img src="assets/project-rtos.svg" alt="RTOS project visual" width="100%"/>
 
-Hands-on learning with task scheduling, task states, synchronization, notifications, and sensor/status processing on microcontroller development boards.
+**Status: Learning / in progress.** Practising task scheduling, task states, synchronization, notifications, and sensor/status processing on microcontroller development boards.
 
 `FreeRTOS` `C` `STM32` `Debugging`
-
-**Repository:** add link when published.
 
 </td>
 <td width="50%" valign="top">
 
-### Smart Agricultural Rover
+### Smart Shoe · Wearable Safety System
 
-<img src="assets/project-rover.svg" alt="Agricultural rover visual" width="100%"/>
+<a href="https://github.com/badhrinarrayanan/smart-shoe-monitoring-system"><img src="assets/project-smartshoe.svg" alt="Smart Shoe wearable safety project visual" width="100%"/></a>
 
-Agricultural monitoring / detection prototype combining a rover concept with computer vision. Add only the components, model details, and results that you personally implemented and can explain.
+A wearable embedded-system project focused on shoe-integrated sensing and safety-oriented monitoring. Update this summary to reflect the actual sensors, functions, and test results in your implementation.
 
-`OpenCV` `YOLO` `Embedded prototyping`
+`Embedded Systems` `Sensors` `Wearable Technology`
 
-**Repository:** add link when published.
+[**View repository →**](https://github.com/badhrinarrayanan/smart-shoe-monitoring-system)
 
 </td>
 </tr>
