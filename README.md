@@ -173,7 +173,7 @@ Hands-on learning with task scheduling, task states, synchronization, notificati
 
 `FreeRTOS` `C` `STM32` `Debugging`
 
-**Repository:** add link when published.
+""Currently working on these !!""
 
 
 <td width="50%" valign="top">
@@ -186,7 +186,7 @@ A wearable safety prototype exploring sensor-based monitoring through a shoe-int
 
 `Embedded Systems` `Sensors` `Wearable Technology`
 
-**Repository:** Add the repository link when the source code is available.
+[Open repository →]([https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring](https://github.com/badhrinarrayanan/smart-shoe-monitoring-system))
 
 </td>
 
