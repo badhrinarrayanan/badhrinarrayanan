@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-labelledby="t">
+<title id="t">Build, debug, measure, document</title>
+<defs><linearGradient id="g"><stop stop-color="#FF3158"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect width="1000" height="110" rx="14" fill="#0D0D12" stroke="#302438"/>
+<path d="M24 55H90M910 55H976" stroke="url(#g)" stroke-width="2"/>
+<text x="500" y="45" text-anchor="middle" fill="#F9FAFB" font-family="monospace" font-size="19" font-weight="700">ENGINEERING IS A MEASURED PROCESS</text>
+<text x="500" y="75" text-anchor="middle" fill="#C4B5FD" font-family="monospace" font-size="15">BUILD  →  DEBUG  →  MEASURE  →  DOCUMENT</text>
+</svg>

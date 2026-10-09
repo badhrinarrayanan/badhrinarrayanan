@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150" role="img" aria-labelledby="t">
+<title id="t">TRI-32</title>
+<defs><linearGradient id="g"><stop stop-color="#FF3158"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient><pattern id="p" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#FFFFFF" stroke-opacity=".04"/></pattern></defs>
+<rect width="520" height="150" rx="12" fill="#0D0D12" stroke="#332537"/><rect width="520" height="150" rx="12" fill="url(#p)"/>
+<g fill="none" stroke="url(#g)" stroke-width="2"><path d="M0 30H35V48H65M520 112H470V94H438M430 0V22H455V40H490"/></g>
+<circle cx="65" cy="48" r="4" fill="#FF3158"/><circle cx="438" cy="94" r="4" fill="#8B5CF6"/>
+<rect x="28" y="31" width="5" height="57" rx="2" fill="url(#g)"/>
+<text x="49" y="59" fill="#F9FAFB" font-family="monospace" font-size="21" font-weight="700">TRI-32</text>
+<text x="49" y="84" fill="#C4B5FD" font-family="monospace" font-size="11">ESP32 · BB84 CONCEPT EMULATION</text>
+<text x="49" y="120" fill="#9CA3AF" font-family="monospace" font-size="10">[ PROJECT MODULE // EXPERIMENTAL SYSTEMS ]</text>
+</svg>

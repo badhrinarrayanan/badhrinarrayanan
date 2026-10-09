@@ -1,0 +1,41 @@
+BADHRI'S ORIGINAL GITHUB PROFILE PACKAGE
+Theme: Black + Crimson Red + Electric Purple
+
+CONTENTS
+- README.md                         Main GitHub profile README
+- assets/header.svg                 Original animated-style engineering banner (static SVG artwork)
+- assets/domain-map.svg             Original four-domain diagram
+- assets/project-*.svg              Original project-card artwork
+- assets/footer.svg                 Original footer artwork
+- .github/workflows/snake.yml       Optional contribution-snake workflow
+
+SETUP
+1. Go to https://github.com/badhrinarrayanan
+2. Create a PUBLIC repository named exactly: badhrinarrayanan
+   This must match your GitHub username. If that repository already exists, edit it instead.
+3. Extract this ZIP.
+4. Upload README.md, assets/, and .github/workflows/snake.yml preserving the folder paths.
+5. Commit the files. Your profile README appears on your GitHub profile.
+6. Check the README in both light and dark mode and click every project/contact link.
+
+IMPORTANT ACCURACY CHECKS
+- Your actual TRI-32 repository is linked.
+- Other project repositories are not assumed to exist. Add their real links where indicated, or remove those cards until published.
+- The profile uses a known GitHub username and contact details from your previous resume context. Verify spelling and links before publishing.
+- Do not claim real quantum communication: TRI-32 is a classical hardware emulation of BB84 concepts.
+- The DHT22 from-scratch driver should only be described as complete if you have finished and tested it.
+- Keep project status honest (completed / in progress / experimental).
+
+OPTIONAL CONTRIBUTION SNAKE
+1. Upload .github/workflows/snake.yml to the profile repository.
+2. In the repository, open Settings -> Actions -> General -> Workflow permissions.
+3. Enable read and write permissions for workflows if required by repository settings.
+4. Open Actions -> Generate contribution snake -> Run workflow.
+5. After it succeeds, the SVG is published to the output branch.
+6. To display it, add this inside README.md:
+   <img src="https://raw.githubusercontent.com/badhrinarrayanan/badhrinarrayanan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+   (Add this only after the workflow succeeds.)
+
+NOTES
+- GitHub stats, typing animation, and activity graph use external services and may occasionally be unavailable.
+- You can replace all colors by editing the SVG files and badge URLs. Current palette: #0D0D12 black, #FF3158 crimson, #8B5CF6 purple, #E5E7EB light text.
