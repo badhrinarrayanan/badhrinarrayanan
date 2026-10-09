@@ -158,7 +158,7 @@ Edge-AI monitoring concept using computer-vision / ML techniques to support obse
 
 `Python` `OpenCV` `TensorFlow/Keras`
 
-**Repository:** add link when published. Document the model, dataset, and actual deployment status.
+[Open repository →](https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring)
 
 </td>
 </tr>
@@ -175,21 +175,21 @@ Hands-on learning with task scheduling, task states, synchronization, notificati
 
 **Repository:** add link when published.
 
-</td>
+
 <td width="50%" valign="top">
 
-### Smart Agricultural Rover
+### Smart Shoe — Wearable Safety System
 
-<img src="assets/project-rover.svg" alt="Agricultural rover visual" width="100%"/>
+<img src="assets/project-smartshoe.svg" alt="Smart Shoe project visual" width="100%"/>
 
-Agricultural monitoring / detection prototype combining a rover concept with computer vision. Add only the components, model details, and results that you personally implemented and can explain.
+A wearable safety prototype exploring sensor-based monitoring through a shoe-integrated system. The project focuses on embedded hardware, sensor interfacing, and collecting useful real-world signals.
 
-`OpenCV` `YOLO` `Embedded prototyping`
+`Embedded Systems` `Sensors` `Wearable Technology`
 
-**Repository:** add link when published.
+**Repository:** Add the repository link when the source code is available.
 
 </td>
-</tr>
+
 </table>
 
 ## `toolchain/`
