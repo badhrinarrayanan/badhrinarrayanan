@@ -145,7 +145,7 @@ Experimental pipeline exploring network-feature extraction, threat classificatio
 
 `ESP32` `Python` `scikit-learn` `IoT security`
 
-**Repository:** add link when published. Keep this card only while the project reflects your current work.
+[Open repository →](https://github.com/badhrinarrayanan/TinyML-Based-Adaptive-Security-Framework-for-Resource-Constrained-IoT-Networks)
 
 </td>
 <td width="50%" valign="top">
