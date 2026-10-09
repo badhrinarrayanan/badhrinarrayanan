@@ -186,7 +186,7 @@ A wearable safety prototype exploring sensor-based monitoring through a shoe-int
 
 `Embedded Systems` `Sensors` `Wearable Technology`
 
-[Open repository →]([https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring](https://github.com/badhrinarrayanan/smart-shoe-monitoring-system))
+[Open repository →](https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring](https://github.com/badhrinarrayanan/smart-shoe-monitoring-system )
 
 </td>
 
