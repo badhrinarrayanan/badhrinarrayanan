@@ -127,7 +127,7 @@ Three ESP32-based roles demonstrate BB84-inspired basis matching, a shared demon
 <tr>
 <td width="50%" valign="top">
 
-### TinyML · Adaptive IoT Security
+### [TinyML · Adaptive IoT Security](https://github.com/badhrinarrayanan/TinyML-Based-Adaptive-Security-Framework-for-Resource-Constrained-IoT-Networks)
 
 <a href="https://github.com/badhrinarrayanan/TinyML-Based-Adaptive-Security-Framework-for-Resource-Constrained-IoT-Networks"><img src="assets/project-security.svg" alt="Embedded security project visual" width="100%"/></a>
 
@@ -140,7 +140,7 @@ An experimental pipeline exploring network-feature extraction, threat classifica
 </td>
 <td width="50%" valign="top">
 
-### Edge AI · Honeybee Monitoring
+### [Edge AI · Honeybee Monitoring](https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring)
 
 <a href="https://github.com/badhrinarrayanan/Edge-AI-Honeybee-Monitoring"><img src="assets/project-edgeai.svg" alt="Edge AI project visual" width="100%"/></a>
 
@@ -166,7 +166,7 @@ An Edge-AI monitoring project exploring computer-vision and machine-learning tec
 </td>
 <td width="50%" valign="top">
 
-### Smart Shoe · Wearable Safety System
+### [Smart Shoe · Wearable Safety System](https://github.com/badhrinarrayanan/smart-shoe-monitoring-system)
 
 <a href="https://github.com/badhrinarrayanan/smart-shoe-monitoring-system"><img src="assets/project-smartshoe.svg" alt="Smart Shoe wearable safety project visual" width="100%"/></a>
 
