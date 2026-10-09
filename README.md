@@ -217,7 +217,7 @@ A wearable embedded-system project focused on shoe-integrated sensing and safety
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=badhrinarrayanan&bg_color=0D0D12&color=E5E7EB&line=FF3158&point=8B5CF6&area=true&hide_border=true" alt="GitHub activity graph" width="100%"/>
+
 
 </div>
 
