@@ -221,7 +221,7 @@ A wearable embedded-system project focused on shoe-integrated sensing and safety
 
 </div>
 
-> Stats cards are provided by third-party services. They may load slowly, have uptime limits, or occasionally fail. GitHub language statistics describe repository code, not your full skill level.
+> Stats cards are provided by third-party services. They may load slowly, have uptime limits, or occasionally fail.
 
 ## `currently-building/`
 
